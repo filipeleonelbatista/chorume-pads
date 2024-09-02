@@ -1,6 +1,6 @@
 const audios = [
   { pauseWhenAction: false, loop: false, volume: 0.3, type: 'red', name: "Ai", url: './audios/1.mp3' },
-  { pauseWhenAction: false, loop: false, volume: 0.9, type: 'red', name: "Errou!", url: './audios/2.mp3' },
+  { pauseWhenAction: false, loop: false, volume: 0.9, type: 'red', name: "Reéquiti", url: './audios/2.mp3' },
   { pauseWhenAction: false, loop: false, volume: 0.3, type: 'red', name: "Ele gosta", url: './audios/3.mp3' },
   { pauseWhenAction: false, loop: false, volume: 0.1, type: 'blue', name: 'Lá ele', url: './audios/4.mp3' },
   { pauseWhenAction: false, loop: false, volume: 0.9, type: 'blue', name: "Suspense", url: './audios/5.mp3' },
