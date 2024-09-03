@@ -1,6 +1,6 @@
 const audios = [
   { pauseWhenAction: false, loop: false, volume: 0.3, type: 'red', name: "Ai", url: './audios/1.mp3' },
-  { pauseWhenAction: false, loop: false, volume: 0.9, type: 'red', name: "Reéquiti", url: './audios/2.mp3' },
+  { pauseWhenAction: false, loop: false, volume: 0.5, type: 'red', name: "Reéquiti", url: './audios/2.mp3' },
   { pauseWhenAction: false, loop: false, volume: 0.3, type: 'red', name: "Ele gosta", url: './audios/3.mp3' },
   { pauseWhenAction: false, loop: false, volume: 0.1, type: 'blue', name: 'Lá ele', url: './audios/4.mp3' },
   { pauseWhenAction: false, loop: false, volume: 0.9, type: 'blue', name: "Suspense", url: './audios/5.mp3' },
@@ -11,6 +11,7 @@ const audios = [
   { pauseWhenAction: true, loop: true, volume: 0.3, type: 'box', name: "Dupeta Ei", url: './audios/9.mp3' },
   { pauseWhenAction: true, loop: true, volume: 0.3, type: 'box', name: "Chorume News", url: './audios/10.mp3' },
   { pauseWhenAction: true, loop: true, volume: 0.3, type: 'box', name: "Leitura duvidosa", url: './audios/11.mp3' },
+  { pauseWhenAction: true, loop: true, volume: 0.3, type: 'box', name: "Daily Chorume", url: './audios/13.mp3' },
 ];
 
 const padlist = document.getElementById('padlist');
