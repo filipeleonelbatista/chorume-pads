@@ -11,7 +11,7 @@ const audios = [
   { pauseWhenAction: true, loop: true, volume: 0.3, type: 'box', name: "Dupeta Ei", url: './audios/9.mp3' },
   { pauseWhenAction: true, loop: true, volume: 0.3, type: 'box', name: "Chorume News", url: './audios/10.mp3' },
   { pauseWhenAction: true, loop: true, volume: 0.3, type: 'box', name: "Leitura duvidosa", url: './audios/11.mp3' },
-  { pauseWhenAction: true, loop: true, volume: 0.3, type: 'box', name: "Daily Chorume", url: './audios/13.mp3' },
+  { pauseWhenAction: true, loop: true, volume: 0.3, type: 'box', name: "Daily Chorume", url: './audios/12.mp3' },
 ];
 
 const padlist = document.getElementById('padlist');
